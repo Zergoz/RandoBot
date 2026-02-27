@@ -1,0 +1,27 @@
+{
+  "name": "randobotpkg",
+  "version": "1.0.0",
+  "description": "Information about the discord bot randobot",
+  "homepage": "https://github.com/Zergoz/randobot#readme",
+  "bugs": {
+    "url": "https://github.com/Zergoz/randobot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zergoz/randobot.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Kristoffer Magnus Overgaard",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0"
+  }
+}
